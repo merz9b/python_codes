@@ -28,11 +28,26 @@ class example():
 
 ```
 
-
-
 ## Some work file
 
-Preparing...
+###HtmlPrint Module
+
+If you want to collect the python outputs in a html page, the htmlprint module would help you.
+For instance:
+
+```python
+from htmlprint import p
+import numpy as np
+import pandas as pd
+
+x=pd.DataFrame(np.rand(10,10))
+p.print(x)
+
+y = np.array([1,2,3])
+p.print(y)
+
+```
+
 
 ## Some func
 
