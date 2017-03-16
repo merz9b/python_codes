@@ -54,6 +54,9 @@ p.print(y)
 
 
 
-## Finance Stats
+## Financial Stats
+
+###Adding a tool for ploting candlesticks for stock ohlc price
+
 
 
