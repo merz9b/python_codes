@@ -1,11 +1,8 @@
 # Python_codes
+----
 
-[![Build Status][travis-badge]][travis-url] 
-[![Coverage][coveralls-badge]][coveralls-url] 
-[![Doc Status][doc-badge]][doc-badge] 
-[![PyPi Status][pypi-badge]][pypi-url] 
-[![License][license-badge]][license-url] 
-[![Python Version][pyversion-badge]][pyversion-url] 
+![Python Version][pyversion-badge]
+![Dependencies][depd-badge]
 
 ## Bayes func
 
@@ -80,4 +77,7 @@ lr.loss_curve
 ### Adding a tool for ploting candlesticks for stock ohlc price
 
 
+
+[pyversion-badge]: https://img.shields.io/badge/Python-v3.5-orange.svg
+[depd-badge]: https://img.shields.io/badge/Dependencies-Tensorflow-blue.svg
 
