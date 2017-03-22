@@ -65,7 +65,7 @@ lr.pred()
 lr.loss_curve
 ```
 
-### 2.Multi-Layer neuro network
+### 2.Multi-Layer Neuro Network
 
 
 
