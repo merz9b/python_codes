@@ -1,4 +1,4 @@
-# Python_codes
+# Python Codes Repertory
 
 ![Python Version][pyversion-badge]
 ![Dependencies][depd-badge]
