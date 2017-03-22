@@ -1,5 +1,11 @@
 # Python_codes
-`Some useless codes`
+
+[![Build Status][travis-badge]][travis-url] 
+[![Coverage][coveralls-badge]][coveralls-url] 
+[![Doc Status][doc-badge]][doc-badge] 
+[![PyPi Status][pypi-badge]][pypi-url] 
+[![License][license-badge]][license-url] 
+[![Python Version][pyversion-badge]][pyversion-url] 
 
 ## Bayes func
 
